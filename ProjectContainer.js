@@ -208,6 +208,12 @@ const projects = [
         description: "Un site de test avec canvas",
         image: "https://picsum.photos/400/200?random=",
         link: "../TestCanva/TestCanva.html" 
+      },    
+      {
+        title: "Agence de voyage",
+        description: "Un site pour une agence de voyage d'affaire",
+        image: "https://picsum.photos/400/200?random=",
+        link: "/Projets Pro/Sites à vendre/Agence De Voyage/AgenceDeVoyage.html" 
       }
   ];
 
